@@ -1,6 +1,6 @@
 # react-top-loader
 
-> Simple fixed-to-top progress bar / loader component for React (similar to sites like GitHub, Medium etc.)
+Simple fixed-to-top progress bar / loader component for React (similar to sites like GitHub, Medium etc.)
 
 [![NPM](https://img.shields.io/npm/v/react-top-loader.svg)](https://www.npmjs.com/package/react-top-loader)
 
@@ -25,7 +25,7 @@ yarn add react-top-loader
 - Use the `progress` prop to control the animation manually.
 - The loading bar is fixed to top by default. Set `fixed` to `false` to disable it.
 
-Here are some more examples:
+Here are some more examples (from the GIF above):
 
 ```javascript
 import TopLoader from "react-top-loader";
